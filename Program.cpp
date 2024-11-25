@@ -17,15 +17,18 @@ int main() {
     case '+':
       cout << num1 << " + " << num2 << " = " << num1 + num2;
       break;
-
+    
+//for subtraction
     case '-':
       cout << num1 << " - " << num2 << " = " << num1 - num2;
       break;
-
+    
+//for multiplication
     case '*':
       cout << num1 << " * " << num2 << " = " << num1 * num2;
       break;
 
+    //for division
     case '/':
       cout << num1 << " / " << num2 << " = " << num1 / num2;
       break;
